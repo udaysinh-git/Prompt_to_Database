@@ -1,0 +1,11 @@
+create a webproject using flask , html , css , htmx.
+
+- use monofonts as typogrphy , use lined white or black buttons aeshtetic design. Similarly for the input boxes etc.
+
+- first page consists of a login page that requires a mysql root password for login to gets stored for authentication of session, implement session tokens etc. 
+
+- second page consits of two options create a database and second one being view all databases 
+
+- if user clicks on view all database show a webpage where user can view all the databases when user cliks on them all the schema is visible in pretty view.
+
+- if user clicked the create a database , show a page where user can enter the name of database and other input box where user can provide a example schema if he has one. add a continue button below there . 
